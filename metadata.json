@@ -1,0 +1,6 @@
+{
+  "name": "Desi Live Tube & Video Hub",
+  "description": "Exclusive video marketing landing page with live streaming feeds, video thumbnails, incoming call overlays, and pop-up chat alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
