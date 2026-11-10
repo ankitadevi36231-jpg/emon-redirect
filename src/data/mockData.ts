@@ -1,6 +1,6 @@
 import { VideoItem, GirlProfile, NotificationAlert } from '../types';
 
-export const AD_LINK = "https://beastlyfluke.com/twc5hihq7?key=b1d27abb2c8fda6ce10fd077f6ba1782";
+export const AD_LINK = "https://beastlyfluke.com/fpmfkwwm?key=91579ad1b2a2e041a60fe0da31f76ed5";
 
 export const FEATURED_LIVE_VIDEO: VideoItem = {
   id: "video-live-1",
